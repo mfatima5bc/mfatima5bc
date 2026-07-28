@@ -1,7 +1,7 @@
 
 :flying_saucer: Hello friend! 
 
-I am a back-end engineer at Semantix, and I have been acting as a programmer since 2020, in that time I have learned a lot and realized how working as a team enriches your journey and makes you evolve much more!
+I am a back-end engineer, and I have been acting as a programmer since 2020, in that time I have learned a lot and realized how working as a team enriches your journey and makes you evolve much more!
 
 :ringed_planet: What I’m studying:
 
